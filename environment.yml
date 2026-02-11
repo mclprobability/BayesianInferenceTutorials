@@ -2,7 +2,7 @@ name: bi_demo
 channels:
   - conda-forge
 dependencies:
-  - python=3.12
+  - python=3.11
   - numpy=2.4
   - matplotlib=3.10
   - seaborn=0.13
