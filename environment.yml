@@ -8,3 +8,4 @@ dependencies:
   - seaborn=0.13
   - pytorch=2.7
   - pyro-ppl=1.9
+  - jupyter
