@@ -9,3 +9,4 @@ dependencies:
   - pytorch=2.7
   - pyro-ppl=1.9
   - jupyter
+  - arviz=0.23
