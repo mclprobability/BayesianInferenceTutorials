@@ -7,4 +7,4 @@ dependencies:
   - matplotlib=3.10
   - seaborn=0.13
   - pytorch=2.7
-  - pyro=1.9
+  - pyro-ppl=1.9
