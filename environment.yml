@@ -1,11 +1,10 @@
 name: bi_demo
 channels:
-  - conda
   - conda-forge
 dependencies:
   - python=3.13
-  - numpy=2.4.2
-  - matplotlib=3.10.8
-  - seaborn=0.13.2
-  - torch=2.7.0
-  - pyro-ppl=1.9.1
+  - numpy=2.4
+  - matplotlib=3.10
+  - seaborn=0.13
+  - pytorch=2.7
+  - pyro=1.9
